@@ -1,0 +1,38 @@
+[
+  {
+    "item": "SCP-002",
+    "objectClass": "Euclid",
+    "image": "/images/800px-SCP002.jpg",
+    "specialContainmentProcedures": "SCP-002 is to remain connected to a suitable power supply at all times, to keep it in what appears to be a recharging mode.",
+    "description": "SCP-002 is to remain connected to a suitable power supply at all times to keep it in what appears to be a recharging mode. In case of electrical outage, the emergency barrier between the object and the facility is to be closed and the immediate area evacuated. Once facility power is re-established, alternating bursts of X-ray and ultraviolet light must strobe the area until SCP-002 is re-affixed to the power supply and returned to recharging mode."
+        
+  },
+  {
+    "item": "SCP-003",
+    "objectClass": "Euclid",
+    "image": "/images/SCP003.jpg",
+    "specialContainmentProcedures": "SCP-003 must be maintained at a constant temperature at all times.",
+    "description": "SCP-003 is to be maintained at a constant temperature of no less than 35°C and ideally kept above 100°C. No living multicellular organisms of Category IV or higher complexity may be allowed to come into contact with SCP-003 In event of total power failure, if SCP-003-1 begins to increase its mass, assigned personnel must engage in skin contact with SCP-003-1."
+  },
+  {
+    "item": "SCP-004",
+    "objectClass": "Euclid",
+    "image": "/images/SCP004_door.jpg",
+    "specialContainmentProcedures": "Only authorized personnel may access SCP-004.",
+    "description": "SCP-004 consists of a barn door and 12 rusted keys. The door is made of wood and metal, and the keys are made of iron. The door is locked at all times, and only authorized personnel may access SCP-004. The keys are kept in a secure location, and only one key is allowed to be taken out at a time. The keys have been tested on various locks, and they can open any lock they are inserted into. However, the keys cannot be used to open SCP-004 itself."
+  },
+  {
+    "item": "SCP-005",
+    "objectClass": "Safe",
+    "image": "/images/SCP-005.jpg",
+    "specialContainmentProcedures": "SCP-005 must be stored securely.",
+    "description": "SCP-005 poses no immediate risk in any direct sense. Even so, its unique functions require special measures be taken to restrict access and manipulation of the object. Approval of at least one (1) Level 4 personnel is required for the removal of the object from itas containment area."
+  },
+  {
+    "item": "SCP-006",
+    "objectClass": "Safe",
+    "image": "/images/SCP006.jpg",
+    "specialContainmentProcedures": "SCP-006 must be kept under strict surveillance.",
+    "description": "SCP-006 is a very small spring located 60 km west of Astrakhan. Foundation Command was aware of its existence since the 19th century, but were unable to secure it until 1991 due to political reasons. On the spot of the spring, a chemical factory has been constructed as a disguise, with the majority of laborers under Foundation and/or Russian control."
+  }
+]
