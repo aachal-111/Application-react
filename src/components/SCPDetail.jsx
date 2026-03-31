@@ -24,7 +24,7 @@ function SCPDetail({ scp }) {
 
       {scp.image ? (
         <div className="image-frame">
-          <img src={scp.image} alt={scp.item} className="scp-image" />
+          <img src={`${import.meta.env.BASE_URL}${scp.image.slice(1)}`} alt={scp.item} className="scp-image" />
         </div>
       ) : (
         <div className="no-image-box">No image available</div>
